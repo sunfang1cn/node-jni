@@ -1,0 +1,18 @@
+{
+  "author": "sunfang <kate.sf@taobao.com>",
+  "name": "jni",
+  "description": "the jni bridge for node to use java class",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sunfang1cn/node-jni",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sunfang1cn/node-jni.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
